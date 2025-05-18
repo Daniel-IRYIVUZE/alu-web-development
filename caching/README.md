@@ -68,7 +68,7 @@ print(cache.get("key1"))
 
 ## Author
 
-**Daniel Iryivuze**
-Software Developer | Python Enthusiast
-📍 Kigali, Rwanda
+- **Daniel Iryivuze**
+- Software Developer | Python Enthusiast
+- 📍 Kigali, Rwanda
 ---
