@@ -9,7 +9,7 @@ class LFUCache(BaseCaching):
     def __init__(self):
         """ Initialize LFUCache """
         self.queue = []
-        self.lfu = {} 
+        self.lfu = {}
         super().__init__()
 
     def put(self, key, item):
